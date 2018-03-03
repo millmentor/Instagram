@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  Instagram
 //
-//  Created by Renato Oliveira Fraga on 2/11/18.
+//  Created by Kewin Ufnowski on 03.03.2018
 //  Copyright © 2018 iOSDevStudio. All rights reserved.
 //
 
